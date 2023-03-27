@@ -1,64 +1,64 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4bcad8eb70af16e75aaba.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/814817126bed648a217b5.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">KannaBOT - MD - V2</h1>
+<h1 align="center">RyzsBotz - V1</h1>
 <p align="center">
-  <a href="https://github.com/Jikarinka"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/RyuShinzz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ryzs+Botz+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Re-Recode+By+RyuShinz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="RyzsBotz" src="https://img.shields.io/badge/RyzsBotz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Jikarinka"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RyuShinz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RyuShinz-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285334930628">
+  <a href="https://wa.me/6285624980521">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@kyo.tang">
+  <a href="https://www.tiktok.com/@ryushinz03">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kontol_elite/">
+  <a href="https://instagram.com/keadilan_sosial1">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto: papamamaakupulang@gmail.com">
+  <a href="mailto: ryushinz96@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6285334930628"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281336990781) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285334930628) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn) 
+## ```Whatsapp``` <a href="https://wa.me/6285624980521"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285624980521) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285624980521) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Dpx8dqHIT3ICaWBz80nL2e) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Jikarinka) |
-| **No Internet** |[✔️](https://github.com/Jikarinka) |
-| **Simple** |[✔️](https://github.com/Jikarinka) |
-| **Button template** |[✔️](https://github.com/Jikarinka) |
-| **Multi Device** |[✔️](https://github.com/Jikarinka) |
+| **Fast Respon** |[✔️](https://github.com/RyuShinzz) |
+| **No Internet** |[✔️](https://github.com/RyuShinzz) |
+| **Simple** |[✔️](https://github.com/RyuShinzz) |
+| **Button template** |[✔️](https://github.com/RyuShinzz) |
+| **Multi Device** |[✔️](https://github.com/RyuShinzz) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/Jikarinka) |
-| **Internet** |[✔️](https://github.com/Jikarinka) |
-| **Game Rpg** |[✔️](https://github.com/Jikarinka) |
-| **Nsfw** |[✔️](https://github.com/Jikarinka) |
-| **Sticker** |[✔️](https://github.com/Jikarinka) |
-| **Game** |[✔️](https://github.com/Jikarinka) |
-| **Kerang Ajaib** |[✔️](https://github.com/Jikarinka) |
-| **Quotes** |[✔️](https://github.com/Jikarinka) |
-| **Anime** |[✔️](https://github.com/Jikarinka) |
-| **Premium** |[✔️](https://github.com/Jikarinka) |
-| **Tools** |[✔️](https://github.com/Jikarinka) |
-| **Exec** |[✔️](https://github.com/Jikarinka) |
-| **React** |[✔️](https://github.com/Jikarinka) |
+| **Downloader** |[✔️](https://github.com/RyuShinzz) |
+| **Internet** |[✔️](https://github.com/RyuShinzz) |
+| **Game Rpg** |[✔️](https://github.com/RyuShinzz) |
+| **Nsfw** |[✔️](https://github.com/RyuShinzz) |
+| **Sticker** |[✔️](https://github.com/RyuShinzz) |
+| **Game** |[✔️](https://github.com/RyuShinzz) |
+| **Kerang Ajaib** |[✔️](https://github.com/RyuShinzz) |
+| **Quotes** |[✔️](https://github.com/RyuShinzz) |
+| **Anime** |[✔️](https://github.com/RyuShinzz) |
+| **Premium** |[✔️](https://github.com/RyuShinzz) |
+| **Tools** |[✔️](https://github.com/RyuShinzz) |
+| **Exec** |[✔️](https://github.com/RyuShinzz) |
+| **React** |[✔️](https://github.com/RyuShinzz) |
 ---------
 
 ## `SETTING`
